@@ -27,7 +27,7 @@ class Bio extends React.Component {
           }}
         />
         <p>
-          <strong>Haotian Chang</strong> A technologies living in Sydney Australia.{' '}
+          <strong>Haotian Chang</strong> A technologist living in Sydney Australia.{' '}
           <a href="https://twitter.com/cht00001">
           </a>
         </p>

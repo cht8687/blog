@@ -1,23 +1,13 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "layout": "index",
-      "jsonName": "dev-404-page.json",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/home/cht/Documents/cht/blog/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin dev-404-page",
-      "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "/home/cht/Documents/cht/blog/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f8b1ea6dbeedf4a17e0b81f6c758c42a",
-        "description": "Plugin dev-404-page",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
@@ -1614,16 +1604,14 @@
         "description": "",
         "siteUrl": "https://github.com/cht8687"
       },
-      "port": "8000",
-      "host": "localhost",
       "pathPrefix": "/blog",
       "polyfill": true,
-      "buildTime": "2018-05-31T06:16:08.779Z",
+      "buildTime": "2018-05-31T06:21:04.449Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "2fca4a21876761d9104ce8474e547395",
+        "contentDigest": "7af9793277009e03ee60f1d230eef35c",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1878,6 +1866,27 @@
         "slug": "/hello-world/"
       }
     },
+    "SitePage /offline-plugin-app-shell-fallback/": {
+      "layout": "index",
+      "jsonName": "offline-plugin-app-shell-fallback.json",
+      "internalComponentName": "ComponentOfflinePluginAppShellFallback",
+      "path": "/offline-plugin-app-shell-fallback/",
+      "component": "/home/cht/Documents/cht/blog/node_modules/gatsby-plugin-offline/app-shell.js",
+      "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-offline",
+      "pluginCreatorId": "Plugin gatsby-plugin-offline",
+      "componentPath": "/home/cht/Documents/cht/blog/node_modules/gatsby-plugin-offline/app-shell.js",
+      "id": "SitePage /offline-plugin-app-shell-fallback/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "6751bccac220c9ed2ee357977ce7ba90",
+        "description": "Plugin gatsby-plugin-offline",
+        "owner": "internal-data-bridge"
+      }
+    },
     "SitePage /hello-world/": {
       "layout": "index",
       "jsonName": "hello-world.json",
@@ -1898,7 +1907,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0201d64b6a1d84bd35bb5b144393dfc9",
+        "contentDigest": "e6b40187952a686392a73c31311326bb",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1919,7 +1928,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "823e054756c77e40969868fe7c0b882a",
+        "contentDigest": "aa481b68b97c0308d3bc93d61b4e0b6b",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1940,7 +1949,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1c89bba494095c6ecd10f245a71f122f",
+        "contentDigest": "81c912d643a253d7568f42f6f326de2f",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1961,7 +1970,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "998fd0f828b1a4fce10b162abe0873d8",
+        "contentDigest": "e1d9a27b3361a26766a8c1965b883244",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
