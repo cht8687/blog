@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{511:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Haotian's blog"}},allMarkdownRemark:{edges:[{node:{excerpt:"Growth Pyramid -Product/Market Fit  -Stacking the Odds -Scale Growth",fields:{slug:"/growth-hacking/"},frontmatter:{date:"02 June, 2018",title:"Growth Hacking learning notes 01"}}},{node:{excerpt:"Ok, from today on, I will write random posts!",fields:{slug:"/hello-world/"},frontmatter:{date:"31 May, 2018",title:"Hello World"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-48a875e2ab5dbe594e77.js.map
