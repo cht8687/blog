@@ -1,23 +1,13 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "layout": "index",
-      "jsonName": "dev-404-page.json",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/home/cht/Documents/cht/blog/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin dev-404-page",
-      "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "/home/cht/Documents/cht/blog/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1a48b8fba1af3fa72aa809d622a57bcc",
-        "description": "Plugin dev-404-page",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
@@ -1614,16 +1604,14 @@
         "description": "",
         "siteUrl": "https://github.com/cht8687"
       },
-      "port": "8000",
-      "host": "localhost",
       "pathPrefix": "/blog",
       "polyfill": true,
-      "buildTime": "2018-06-11T05:37:18.385Z",
+      "buildTime": "2018-06-11T09:26:13.190Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "45c0f26e93b12fcd5633c6c882a38b11",
+        "contentDigest": "2be6a73ee456b2cf0ddbd0cca6a92cdb",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1883,7 +1871,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "ab7a1b689ddc42da6aa180144343e683",
+        "contentDigest": "db68deecd571d58387b858d1b261bd8f",
         "type": "Directory",
         "description": "Directory \"src/pages/growth-hacking\"",
         "owner": "gatsby-source-filesystem"
@@ -1894,10 +1882,10 @@
       "extension": "",
       "size": 4096,
       "prettySize": "4.1 kB",
-      "modifiedTime": "2018-06-02T11:44:38.544Z",
-      "accessTime": "2018-06-11T04:56:16.186Z",
-      "changeTime": "2018-06-02T11:44:38.544Z",
-      "birthTime": "2018-06-02T11:44:38.544Z",
+      "modifiedTime": "2018-06-11T08:27:32.503Z",
+      "accessTime": "2018-06-11T08:27:32.511Z",
+      "changeTime": "2018-06-11T08:27:32.503Z",
+      "birthTime": "2018-06-11T08:27:32.503Z",
       "root": "/",
       "dir": "/home/cht/Documents/cht/blog/src/pages",
       "base": "growth-hacking",
@@ -1913,14 +1901,14 @@
       "blksize": 4096,
       "ino": 26875049,
       "blocks": 8,
-      "atimeMs": 1528692976186.346,
-      "mtimeMs": 1527939878544.3757,
-      "ctimeMs": 1527939878544.3757,
-      "birthtimeMs": 1527939878544.3757,
-      "atime": "2018-06-11T04:56:16.186Z",
-      "mtime": "2018-06-02T11:44:38.544Z",
-      "ctime": "2018-06-02T11:44:38.544Z",
-      "birthtime": "2018-06-02T11:44:38.544Z"
+      "atimeMs": 1528705652511.1436,
+      "mtimeMs": 1528705652503.1436,
+      "ctimeMs": 1528705652503.1436,
+      "birthtimeMs": 1528705652503.1436,
+      "atime": "2018-06-11T08:27:32.511Z",
+      "mtime": "2018-06-11T08:27:32.503Z",
+      "ctime": "2018-06-11T08:27:32.503Z",
+      "birthtime": "2018-06-11T08:27:32.503Z"
     },
     "/home/cht/Documents/cht/blog/src/pages/growth-hacking/index.md absPath of file": {
       "id": "/home/cht/Documents/cht/blog/src/pages/growth-hacking/index.md absPath of file",
@@ -1999,7 +1987,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "841ec029aef38e8363867f0c1ce54aee",
+        "contentDigest": "fe6f6824af76cc5b5b6da2ee555a0b38",
         "type": "Directory",
         "description": "Directory \"src/pages/lean-startups\"",
         "owner": "gatsby-source-filesystem"
@@ -2010,10 +1998,10 @@
       "extension": "",
       "size": 4096,
       "prettySize": "4.1 kB",
-      "modifiedTime": "2018-06-11T05:36:21.064Z",
-      "accessTime": "2018-06-11T05:36:42.784Z",
-      "changeTime": "2018-06-11T05:36:21.064Z",
-      "birthTime": "2018-06-11T05:36:21.064Z",
+      "modifiedTime": "2018-06-11T09:23:10.461Z",
+      "accessTime": "2018-06-11T09:23:10.473Z",
+      "changeTime": "2018-06-11T09:23:10.461Z",
+      "birthTime": "2018-06-11T09:23:10.461Z",
       "root": "/",
       "dir": "/home/cht/Documents/cht/blog/src/pages",
       "base": "lean-startups",
@@ -2029,14 +2017,14 @@
       "blksize": 4096,
       "ino": 28712763,
       "blocks": 8,
-      "atimeMs": 1528695402784.2263,
-      "mtimeMs": 1528695381064.0667,
-      "ctimeMs": 1528695381064.0667,
-      "birthtimeMs": 1528695381064.0667,
-      "atime": "2018-06-11T05:36:42.784Z",
-      "mtime": "2018-06-11T05:36:21.064Z",
-      "ctime": "2018-06-11T05:36:21.064Z",
-      "birthtime": "2018-06-11T05:36:21.064Z"
+      "atimeMs": 1528708990473.482,
+      "mtimeMs": 1528708990461.482,
+      "ctimeMs": 1528708990461.482,
+      "birthtimeMs": 1528708990461.482,
+      "atime": "2018-06-11T09:23:10.473Z",
+      "mtime": "2018-06-11T09:23:10.461Z",
+      "ctime": "2018-06-11T09:23:10.461Z",
+      "birthtime": "2018-06-11T09:23:10.461Z"
     },
     "/home/cht/Documents/cht/blog/src/pages/lean-startups/flow.jpg absPath of file": {
       "id": "/home/cht/Documents/cht/blog/src/pages/lean-startups/flow.jpg absPath of file",
@@ -2140,172 +2128,6 @@
         "contentDigest": "770eefe32bc9434d976313e245ed6e3d",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "SitePage /lean-startups/": {
-      "layout": "index",
-      "jsonName": "lean-startups.json",
-      "internalComponentName": "ComponentLeanStartups",
-      "path": "/lean-startups/",
-      "component": "/home/cht/Documents/cht/blog/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "slug": "/lean-startups/",
-        "previous": {
-          "fields": {
-            "slug": "/growth-hacking/"
-          },
-          "frontmatter": {
-            "title": "Growth Hacking"
-          }
-        },
-        "next": null
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/cht/Documents/cht/blog/src/templates/blog-post.js",
-      "id": "SitePage /lean-startups/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "79c068b8e798ff92932d6003a6700168",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /growth-hacking/": {
-      "layout": "index",
-      "jsonName": "growth-hacking.json",
-      "internalComponentName": "ComponentGrowthHacking",
-      "path": "/growth-hacking/",
-      "component": "/home/cht/Documents/cht/blog/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "slug": "/growth-hacking/",
-        "previous": {
-          "fields": {
-            "slug": "/hello-world/"
-          },
-          "frontmatter": {
-            "title": "Hello World"
-          }
-        },
-        "next": {
-          "fields": {
-            "slug": "/lean-startups/"
-          },
-          "frontmatter": {
-            "title": "LEAN Startups"
-          }
-        }
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/cht/Documents/cht/blog/src/templates/blog-post.js",
-      "id": "SitePage /growth-hacking/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "f8a3aeba4f41a87ba1985c0e21272756",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /hello-world/": {
-      "layout": "index",
-      "jsonName": "hello-world.json",
-      "internalComponentName": "ComponentHelloWorld",
-      "path": "/hello-world/",
-      "component": "/home/cht/Documents/cht/blog/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "slug": "/hello-world/",
-        "previous": null,
-        "next": {
-          "fields": {
-            "slug": "/growth-hacking/"
-          },
-          "frontmatter": {
-            "title": "Growth Hacking"
-          }
-        }
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/home/cht/Documents/cht/blog/src/templates/blog-post.js",
-      "id": "SitePage /hello-world/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "a512e1cbce0fa2aec28bc86384e371c6",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /404/": {
-      "layout": "index",
-      "jsonName": "404.json",
-      "internalComponentName": "Component404",
-      "path": "/404/",
-      "component": "/home/cht/Documents/cht/blog/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/home/cht/Documents/cht/blog/src/pages/404.js",
-      "id": "SitePage /404/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "8392648b92f9a2921fa2f4706bf3aecc",
-        "description": "Plugin component-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /": {
-      "layout": "index",
-      "jsonName": "index.json",
-      "internalComponentName": "ComponentIndex",
-      "path": "/",
-      "component": "/home/cht/Documents/cht/blog/src/pages/index.js",
-      "componentChunkName": "component---src-pages-index-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/home/cht/Documents/cht/blog/src/pages/index.js",
-      "id": "SitePage /",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "3785af2808250c1ffa37adadd46137b5",
-        "description": "Plugin component-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /404.html": {
-      "layout": "index",
-      "jsonName": "404-html.json",
-      "internalComponentName": "Component404Html",
-      "path": "/404.html",
-      "component": "/home/cht/Documents/cht/blog/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin prod-404",
-      "pluginCreatorId": "Plugin prod-404",
-      "componentPath": "/home/cht/Documents/cht/blog/src/pages/404.js",
-      "id": "SitePage /404.html",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "d7c61d8e271e71cd24d0a67a269af200",
-        "description": "Plugin prod-404",
-        "owner": "internal-data-bridge"
       }
     },
     "/home/cht/Documents/cht/blog/src/pages/lean-startups/market-centric.jpg absPath of file": {
@@ -2616,6 +2438,193 @@
       "fileAbsolutePath": "/home/cht/Documents/cht/blog/src/pages/lean-startups/index.md",
       "fields": {
         "slug": "/lean-startups/"
+      }
+    },
+    "SitePage /offline-plugin-app-shell-fallback/": {
+      "layout": "index",
+      "jsonName": "offline-plugin-app-shell-fallback.json",
+      "internalComponentName": "ComponentOfflinePluginAppShellFallback",
+      "path": "/offline-plugin-app-shell-fallback/",
+      "component": "/home/cht/Documents/cht/blog/node_modules/gatsby-plugin-offline/app-shell.js",
+      "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-offline",
+      "pluginCreatorId": "Plugin gatsby-plugin-offline",
+      "componentPath": "/home/cht/Documents/cht/blog/node_modules/gatsby-plugin-offline/app-shell.js",
+      "id": "SitePage /offline-plugin-app-shell-fallback/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3890cc23efd5a492782d92f24d0ad0aa",
+        "description": "Plugin gatsby-plugin-offline",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /lean-startups/": {
+      "layout": "index",
+      "jsonName": "lean-startups.json",
+      "internalComponentName": "ComponentLeanStartups",
+      "path": "/lean-startups/",
+      "component": "/home/cht/Documents/cht/blog/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "/lean-startups/",
+        "previous": {
+          "fields": {
+            "slug": "/growth-hacking/"
+          },
+          "frontmatter": {
+            "title": "Growth Hacking"
+          }
+        },
+        "next": null
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/cht/Documents/cht/blog/src/templates/blog-post.js",
+      "id": "SitePage /lean-startups/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4e9798840e54c8bafa5a883e646aca65",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /growth-hacking/": {
+      "layout": "index",
+      "jsonName": "growth-hacking.json",
+      "internalComponentName": "ComponentGrowthHacking",
+      "path": "/growth-hacking/",
+      "component": "/home/cht/Documents/cht/blog/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "/growth-hacking/",
+        "previous": {
+          "fields": {
+            "slug": "/hello-world/"
+          },
+          "frontmatter": {
+            "title": "Hello World"
+          }
+        },
+        "next": {
+          "fields": {
+            "slug": "/lean-startups/"
+          },
+          "frontmatter": {
+            "title": "LEAN Startups"
+          }
+        }
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/cht/Documents/cht/blog/src/templates/blog-post.js",
+      "id": "SitePage /growth-hacking/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "a9b058d5f5912484d81d56aeeed9f492",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /hello-world/": {
+      "layout": "index",
+      "jsonName": "hello-world.json",
+      "internalComponentName": "ComponentHelloWorld",
+      "path": "/hello-world/",
+      "component": "/home/cht/Documents/cht/blog/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "/hello-world/",
+        "previous": null,
+        "next": {
+          "fields": {
+            "slug": "/growth-hacking/"
+          },
+          "frontmatter": {
+            "title": "Growth Hacking"
+          }
+        }
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/cht/Documents/cht/blog/src/templates/blog-post.js",
+      "id": "SitePage /hello-world/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ac3813836f3ca42334a0531e97341b9a",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "layout": "index",
+      "jsonName": "404.json",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/home/cht/Documents/cht/blog/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/home/cht/Documents/cht/blog/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "9a7afd5371faa65e7b3b9a058ac6623a",
+        "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/home/cht/Documents/cht/blog/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/home/cht/Documents/cht/blog/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3959d2acf017cda5c2183e7f804bc56d",
+        "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/home/cht/Documents/cht/blog/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "/home/cht/Documents/cht/blog/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "97df9aa73b3706f483dfb604f830c5ad",
+        "description": "Plugin prod-404",
+        "owner": "internal-data-bridge"
       }
     }
   },
