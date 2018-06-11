@@ -1,4 +1,235 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Haotian's blog]]></title><description><![CDATA[Haotian's blog]]></description><link>https://github.com/cht8687</link><generator>RSS for Node</generator><lastBuildDate>Sat, 02 Jun 2018 11:44:54 GMT</lastBuildDate><item><title><![CDATA[Growth Hacking]]></title><description><![CDATA[Sean Ellis talks about the 3 stages of Growth Hacking Success https://www.youtube.com/watch?feature=player_embedded&v=i0nxESR9sFs Growth…]]></description><link>https://github.com/cht8687/growth-hacking/</link><guid isPermaLink="false">https://github.com/cht8687/growth-hacking/</guid><pubDate>Sat, 02 Jun 2018 16:09:03 GMT</pubDate><content:encoded>&lt;h2&gt;Sean Ellis talks about the 3 stages of Growth Hacking Success&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Haotian's blog]]></title><description><![CDATA[Haotian's blog]]></description><link>https://github.com/cht8687</link><generator>RSS for Node</generator><lastBuildDate>Mon, 11 Jun 2018 09:26:24 GMT</lastBuildDate><item><title><![CDATA[LEAN Startups]]></title><description><![CDATA[What is a LEAN startup? The objective of a lean startup is to elimate waste in the discovery of value and whome it’s being created. THE…]]></description><link>https://github.com/cht8687/lean-startups/</link><guid isPermaLink="false">https://github.com/cht8687/lean-startups/</guid><pubDate>Mon, 11 Jun 2018 14:58:03 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+&lt;p&gt;What is a LEAN startup?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The objective of a lean startup is to elimate waste in the discovery of value and whome it’s being created.&lt;/p&gt;
+&lt;h3&gt;THE VALUE-CREATION ECONOMY&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Having a product experience that exceeds their needs.&lt;/li&gt;
+&lt;li&gt;Having a relationship with the company in which the company treats them respectfully.&lt;/li&gt;
+&lt;li&gt;Having a voice in the product.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Value-adding activities are those that directly contribute to the production or delivery of value—for example, assembling part of a car. Non-value-adding activities are those that don’t contribute to the value being produced—for example, forklifting parts from one side of a warehouse to another.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/flow-770eefe32bc9434d976313e245ed6e3d-a0e60.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 13.624999999999998%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAADABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIE/9oADAMBAAIQAxAAAAHXB5YEn//EABYQAAMAAAAAAAAAAAAAAAAAAAACEP/aAAgBAQABBQKMf//EABYRAQEBAAAAAAAAAAAAAAAAAAACMf/aAAgBAwEBPwFWv//EABURAQEAAAAAAAAAAAAAAAAAAAAB/9oACAECAQE/AVf/xAAYEAACAwAAAAAAAAAAAAAAAAAAARBxgf/aAAgBAQAGPwJUZH//xAAaEAACAgMAAAAAAAAAAAAAAAAAARExQVFx/9oACAEBAAE/IVXQwWhqq0f/2gAMAwEAAgADAAAAEPfP/8QAGREBAAIDAAAAAAAAAAAAAAAAAQARMVHw/9oACAEDAQE/EDHaIm0//8QAFhEBAQEAAAAAAAAAAAAAAAAAAAEh/9oACAECAQE/EFa//8QAGxAAAgIDAQAAAAAAAAAAAAAAATEAIRFBUXH/2gAIAQEAAT8QPg5ezNFsoYEAqsDP/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Flow&quot;
+        title=&quot;&quot;
+        src=&quot;/blog/static/flow-770eefe32bc9434d976313e245ed6e3d-f8fb9.jpg&quot;
+        srcset=&quot;/blog/static/flow-770eefe32bc9434d976313e245ed6e3d-e8976.jpg 148w,
+/blog/static/flow-770eefe32bc9434d976313e245ed6e3d-63df2.jpg 295w,
+/blog/static/flow-770eefe32bc9434d976313e245ed6e3d-f8fb9.jpg 590w,
+/blog/static/flow-770eefe32bc9434d976313e245ed6e3d-a0e60.jpg 800w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Follow your passion is easily the worst advice you could ever give or get.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;—Mark Cuban, businessman, investor, and billionaire (ergo: visionary)2&lt;/p&gt;
+&lt;h3&gt;Market-Centric&lt;/h3&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/market-centric-6b1c3de35c06cf0c6d08a2c2705045c0-a0e60.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 23.875%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAFABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAMEBf/EABYBAQEBAAAAAAAAAAAAAAAAAAIABP/aAAwDAQACEAMQAAAB1JQmgLd//8QAGBAAAgMAAAAAAAAAAAAAAAAAARESE0L/2gAIAQEAAQUCDr2Zv//EABgRAAIDAAAAAAAAAAAAAAAAAAABAhIx/9oACAEDAQE/AY6WZ//EABYRAAMAAAAAAAAAAAAAAAAAAAIQMf/aAAgBAgEBPwE6v//EABgQAAIDAAAAAAAAAAAAAAAAAAABITEy/9oACAEBAAY/ArFJtn//xAAYEAEAAwEAAAAAAAAAAAAAAAABABEhMf/aAAgBAQABPyEANuzaLcgTo9n/2gAMAwEAAgADAAAAEHAv/8QAGREAAgMBAAAAAAAAAAAAAAAAAAERIXHh/9oACAEDAQE/EEvgoOI//8QAGBEAAgMAAAAAAAAAAAAAAAAAAAERIYH/2gAIAQIBAT8QttEH/8QAGRABAAMBAQAAAAAAAAAAAAAAAQARIUFx/9oACAEBAAE/ECAS8xDgm0rFBGLu+z//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Market-Centric&quot;
+        title=&quot;&quot;
+        src=&quot;/blog/static/market-centric-6b1c3de35c06cf0c6d08a2c2705045c0-f8fb9.jpg&quot;
+        srcset=&quot;/blog/static/market-centric-6b1c3de35c06cf0c6d08a2c2705045c0-e8976.jpg 148w,
+/blog/static/market-centric-6b1c3de35c06cf0c6d08a2c2705045c0-63df2.jpg 295w,
+/blog/static/market-centric-6b1c3de35c06cf0c6d08a2c2705045c0-f8fb9.jpg 590w,
+/blog/static/market-centric-6b1c3de35c06cf0c6d08a2c2705045c0-a0e60.jpg 800w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3&gt;Problem-Centric&lt;/h3&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/problem-centric-581c9429d30d95c9086503529d436ae1-a0e60.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 23.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAFABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAMEBf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgT/2gAMAwEAAhADEAAAAdSUlUAbP//EABgQAQADAQAAAAAAAAAAAAAAAAECESJC/9oACAEBAAEFAkx0kr//xAAYEQACAwAAAAAAAAAAAAAAAAAAAQISMf/aAAgBAwEBPwGGFmf/xAAWEQEBAQAAAAAAAAAAAAAAAAABEDL/2gAIAQIBAT8Bck//xAAYEAACAwAAAAAAAAAAAAAAAAAAASExMv/aAAgBAQAGPwKxSbZ//8QAGRAAAwEBAQAAAAAAAAAAAAAAAAERITFh/9oACAEBAAE/IWTGWkcq4PvFb6f/2gAMAwEAAgADAAAAEHvv/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERgeH/2gAIAQMBAT8QSYFLiP/EABgRAAIDAAAAAAAAAAAAAAAAAAABESFh/9oACAECAQE/ELo0g//EABsQAAEEAwAAAAAAAAAAAAAAAAEAESFBcbHw/9oACAEBAAE/EBTHTXnTNCaTMsCEGU5X/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Problem-Centric&quot;
+        title=&quot;&quot;
+        src=&quot;/blog/static/problem-centric-581c9429d30d95c9086503529d436ae1-f8fb9.jpg&quot;
+        srcset=&quot;/blog/static/problem-centric-581c9429d30d95c9086503529d436ae1-e8976.jpg 148w,
+/blog/static/problem-centric-581c9429d30d95c9086503529d436ae1-63df2.jpg 295w,
+/blog/static/problem-centric-581c9429d30d95c9086503529d436ae1-f8fb9.jpg 590w,
+/blog/static/problem-centric-581c9429d30d95c9086503529d436ae1-a0e60.jpg 800w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;But beware: This can be a trap, on two levels. First, just because you have experienced the problem doesn’t mean that there is an addressable market segment for it. Second, you may be biased toward a solution that the market majority doesn’t want.&lt;/p&gt;
+&lt;p&gt;A notable difference between the market-centric and problem-centric business models is that the problem-centric model ultimately pursues anyone who has the problem, whereas the market-centric model seeks to solve many problems experienced by one market.&lt;/p&gt;
+&lt;h3&gt;Product-Centric&lt;/h3&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/problem-centric-581c9429d30d95c9086503529d436ae1-a0e60.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 23.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAFABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAMEBf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgT/2gAMAwEAAhADEAAAAdSUlUAbP//EABgQAQADAQAAAAAAAAAAAAAAAAECESJC/9oACAEBAAEFAkx0kr//xAAYEQACAwAAAAAAAAAAAAAAAAAAAQISMf/aAAgBAwEBPwGGFmf/xAAWEQEBAQAAAAAAAAAAAAAAAAABEDL/2gAIAQIBAT8Bck//xAAYEAACAwAAAAAAAAAAAAAAAAAAASExMv/aAAgBAQAGPwKxSbZ//8QAGRAAAwEBAQAAAAAAAAAAAAAAAAERITFh/9oACAEBAAE/IWTGWkcq4PvFb6f/2gAMAwEAAgADAAAAEHvv/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERgeH/2gAIAQMBAT8QSYFLiP/EABgRAAIDAAAAAAAAAAAAAAAAAAABESFh/9oACAECAQE/ELo0g//EABsQAAEEAwAAAAAAAAAAAAAAAAEAESFBcbHw/9oACAEBAAE/EBTHTXnTNCaTMsCEGU5X/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Product-Centric&quot;
+        title=&quot;&quot;
+        src=&quot;/blog/static/problem-centric-581c9429d30d95c9086503529d436ae1-f8fb9.jpg&quot;
+        srcset=&quot;/blog/static/problem-centric-581c9429d30d95c9086503529d436ae1-e8976.jpg 148w,
+/blog/static/problem-centric-581c9429d30d95c9086503529d436ae1-63df2.jpg 295w,
+/blog/static/problem-centric-581c9429d30d95c9086503529d436ae1-f8fb9.jpg 590w,
+/blog/static/problem-centric-581c9429d30d95c9086503529d436ae1-a0e60.jpg 800w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3&gt;Technology-Centric&lt;/h3&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/technology-centric-43a55382b9df34cff66f4cb05fbe1612-a0e60.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 23.875%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAFABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAIDBf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAwT/2gAMAwEAAhADEAAAAdK0FAZaf//EABgQAAIDAAAAAAAAAAAAAAAAABMhAAIR/9oACAEBAAEFAq6Nkc//xAAXEQADAQAAAAAAAAAAAAAAAAABAhAy/9oACAEDAQE/AW2Z/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAIRMf/aAAgBAgEBPwGOqf/EABkQAAIDAQAAAAAAAAAAAAAAAAARASExQf/aAAgBAQAGPwJvpFmn/8QAGBAAAwEBAAAAAAAAAAAAAAAAAAERIUH/2gAIAQEAAT8h7Sh4rkHt7P/aAAwDAQACAAMAAAAQA/8A/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEx/9oACAEDAQE/ENav/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAERMXH/2gAIAQIBAT8QuwaSf//EABsQAQADAQADAAAAAAAAAAAAAAERITEAUYGh/9oACAEBAAE/ECDaK7zxO8d7Sj09IQcKa397/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Technology-Centric&quot;
+        title=&quot;&quot;
+        src=&quot;/blog/static/technology-centric-43a55382b9df34cff66f4cb05fbe1612-f8fb9.jpg&quot;
+        srcset=&quot;/blog/static/technology-centric-43a55382b9df34cff66f4cb05fbe1612-e8976.jpg 148w,
+/blog/static/technology-centric-43a55382b9df34cff66f4cb05fbe1612-63df2.jpg 295w,
+/blog/static/technology-centric-43a55382b9df34cff66f4cb05fbe1612-f8fb9.jpg 590w,
+/blog/static/technology-centric-43a55382b9df34cff66f4cb05fbe1612-a0e60.jpg 800w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3&gt;Channel-Centric&lt;/h3&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/channel-centric-e22aff6112aa09e054f9fa5fe3d23b0b-a0e60.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 32.625%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAHABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAMEBf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAA//aAAwDAQACEAMQAAAB1ZQKotv/xAAXEAEBAQEAAAAAAAAAAAAAAAABEQID/9oACAEBAAEFAkcYjXl0v//EABkRAAEFAAAAAAAAAAAAAAAAAAABAhMiMf/aAAgBAwEBPwFbaSuP/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAEREv/aAAgBAgEBPwHMKf/EABcQAQEBAQAAAAAAAAAAAAAAAAABETP/2gAIAQEABj8CS66P/8QAGhABAAMAAwAAAAAAAAAAAAAAAQARITFBgf/aAAgBAQABPyEptt9MH4iovCPWf//aAAwDAQACAAMAAAAQd8//xAAYEQACAwAAAAAAAAAAAAAAAAAAASFRkf/aAAgBAwEBPxCYJVYj/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oACAECAQE/EADSxf/EABoQAAIDAQEAAAAAAAAAAAAAAAERACFRMWH/2gAIAQEAAT8QADHN0UtjAamH5D4jWebT/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Channel-Centric&quot;
+        title=&quot;&quot;
+        src=&quot;/blog/static/channel-centric-e22aff6112aa09e054f9fa5fe3d23b0b-f8fb9.jpg&quot;
+        srcset=&quot;/blog/static/channel-centric-e22aff6112aa09e054f9fa5fe3d23b0b-e8976.jpg 148w,
+/blog/static/channel-centric-e22aff6112aa09e054f9fa5fe3d23b0b-63df2.jpg 295w,
+/blog/static/channel-centric-e22aff6112aa09e054f9fa5fe3d23b0b-f8fb9.jpg 590w,
+/blog/static/channel-centric-e22aff6112aa09e054f9fa5fe3d23b0b-a0e60.jpg 800w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;According to author Steven Spear, the only way for an enterprise to truly thrive is to become a high-velocity organization. A high-velocity organization continuously produces higher-quality products while also continuously improving the processes of producing product. This, Spear argues, is the forgotten lesson of the Toyota Production System: that Toyota figured out “how to do the work in such a way that individuals and groups kept learning how to do that work better.”3&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Growth Hacking]]></title><description><![CDATA[Sean Ellis talks about the 3 stages of Growth Hacking Success https://www.youtube.com/watch?feature=player_embedded&v=i0nxESR9sFs Growth…]]></description><link>https://github.com/cht8687/growth-hacking/</link><guid isPermaLink="false">https://github.com/cht8687/growth-hacking/</guid><pubDate>Sat, 02 Jun 2018 16:09:03 GMT</pubDate><content:encoded>&lt;h2&gt;Sean Ellis talks about the 3 stages of Growth Hacking Success&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?feature=player_embedded&amp;#x26;v=i0nxESR9sFs&quot;&gt;https://www.youtube.com/watch?feature=player_embedded&amp;#x26;v=i0nxESR9sFs&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Growth Pyramid&lt;/p&gt;
