@@ -1,1 +1,1 @@
-{"data":{"allSitePage":{"totalCount":4,"edges":[{"node":{"path":"/hello-world/"}},{"node":{"path":"/404/"}},{"node":{"path":"/"}},{"node":{"path":"/404.html"}}]}},"pathContext":{}}
+{"data":{"allSitePage":{"totalCount":6,"edges":[{"node":{"path":"/lean-startups/"}},{"node":{"path":"/growth-hacking/"}},{"node":{"path":"/hello-world/"}},{"node":{"path":"/404/"}},{"node":{"path":"/"}},{"node":{"path":"/404.html"}}]}},"pathContext":{}}

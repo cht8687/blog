@@ -1,13 +1,23 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
+      "component": "/home/cht/Documents/cht/blog/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/home/cht/Documents/cht/blog/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "contentDigest": "1a48b8fba1af3fa72aa809d622a57bcc",
+        "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
     },
@@ -1604,14 +1614,16 @@
         "description": "",
         "siteUrl": "https://github.com/cht8687"
       },
+      "port": "8000",
+      "host": "localhost",
       "pathPrefix": "/blog",
       "polyfill": true,
-      "buildTime": "2018-05-31T06:21:04.449Z",
+      "buildTime": "2018-06-11T05:37:18.385Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "7af9793277009e03ee60f1d230eef35c",
+        "contentDigest": "45c0f26e93b12fcd5633c6c882a38b11",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1621,7 +1633,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "dc0bebf039bcfc8c4810cae3f7f81758",
+        "contentDigest": "e0b28ca5acce8dbea7a13dcd9d68f86c",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -1632,10 +1644,10 @@
       "extension": "",
       "size": 4096,
       "prettySize": "4.1 kB",
-      "modifiedTime": "2018-05-31T06:13:02.519Z",
-      "accessTime": "2018-05-31T06:13:24.855Z",
-      "changeTime": "2018-05-31T06:13:02.519Z",
-      "birthTime": "2018-05-31T06:13:02.519Z",
+      "modifiedTime": "2018-06-11T04:57:27.963Z",
+      "accessTime": "2018-06-11T05:02:47.413Z",
+      "changeTime": "2018-06-11T04:57:27.963Z",
+      "birthTime": "2018-06-11T04:57:27.963Z",
       "root": "/",
       "dir": "/home/cht/Documents/cht/blog/src",
       "base": "pages",
@@ -1644,28 +1656,28 @@
       "relativeDirectory": "..",
       "dev": 66306,
       "mode": 16893,
-      "nlink": 3,
+      "nlink": 5,
       "uid": 1000,
       "gid": 1000,
       "rdev": 0,
       "blksize": 4096,
       "ino": 26875519,
       "blocks": 8,
-      "atimeMs": 1527747204854.7854,
-      "mtimeMs": 1527747182518.6104,
-      "ctimeMs": 1527747182518.6104,
-      "birthtimeMs": 1527747182518.6104,
-      "atime": "2018-05-31T06:13:24.855Z",
-      "mtime": "2018-05-31T06:13:02.519Z",
-      "ctime": "2018-05-31T06:13:02.519Z",
-      "birthtime": "2018-05-31T06:13:02.519Z"
+      "atimeMs": 1528693367413.1973,
+      "mtimeMs": 1528693047962.867,
+      "ctimeMs": 1528693047962.867,
+      "birthtimeMs": 1528693047962.867,
+      "atime": "2018-06-11T05:02:47.413Z",
+      "mtime": "2018-06-11T04:57:27.963Z",
+      "ctime": "2018-06-11T04:57:27.963Z",
+      "birthtime": "2018-06-11T04:57:27.963Z"
     },
     "/home/cht/Documents/cht/blog/src/pages/hello-world absPath of file": {
       "id": "/home/cht/Documents/cht/blog/src/pages/hello-world absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "e7a10654e82fded96c29eb6798760abb",
+        "contentDigest": "cc283feedab4f13b5241a14646a27f00",
         "type": "Directory",
         "description": "Directory \"src/pages/hello-world\"",
         "owner": "gatsby-source-filesystem"
@@ -1677,7 +1689,7 @@
       "size": 4096,
       "prettySize": "4.1 kB",
       "modifiedTime": "2018-05-31T06:13:02.519Z",
-      "accessTime": "2018-05-31T06:13:24.871Z",
+      "accessTime": "2018-06-11T04:56:16.186Z",
       "changeTime": "2018-05-31T06:13:02.519Z",
       "birthTime": "2018-05-31T06:13:02.519Z",
       "root": "/",
@@ -1695,11 +1707,11 @@
       "blksize": 4096,
       "ino": 26875521,
       "blocks": 8,
-      "atimeMs": 1527747204870.7856,
+      "atimeMs": 1528692976186.346,
       "mtimeMs": 1527747182518.6104,
       "ctimeMs": 1527747182518.6104,
       "birthtimeMs": 1527747182518.6104,
-      "atime": "2018-05-31T06:13:24.871Z",
+      "atime": "2018-06-11T04:56:16.186Z",
       "mtime": "2018-05-31T06:13:02.519Z",
       "ctime": "2018-05-31T06:13:02.519Z",
       "birthtime": "2018-05-31T06:13:02.519Z"
@@ -1866,24 +1878,338 @@
         "slug": "/hello-world/"
       }
     },
-    "SitePage /offline-plugin-app-shell-fallback/": {
+    "/home/cht/Documents/cht/blog/src/pages/growth-hacking absPath of file": {
+      "id": "/home/cht/Documents/cht/blog/src/pages/growth-hacking absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "ab7a1b689ddc42da6aa180144343e683",
+        "type": "Directory",
+        "description": "Directory \"src/pages/growth-hacking\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/cht/Documents/cht/blog/src/pages/growth-hacking",
+      "relativePath": "growth-hacking",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2018-06-02T11:44:38.544Z",
+      "accessTime": "2018-06-11T04:56:16.186Z",
+      "changeTime": "2018-06-02T11:44:38.544Z",
+      "birthTime": "2018-06-02T11:44:38.544Z",
+      "root": "/",
+      "dir": "/home/cht/Documents/cht/blog/src/pages",
+      "base": "growth-hacking",
+      "ext": "",
+      "name": "growth-hacking",
+      "relativeDirectory": "",
+      "dev": 66306,
+      "mode": 16877,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 26875049,
+      "blocks": 8,
+      "atimeMs": 1528692976186.346,
+      "mtimeMs": 1527939878544.3757,
+      "ctimeMs": 1527939878544.3757,
+      "birthtimeMs": 1527939878544.3757,
+      "atime": "2018-06-11T04:56:16.186Z",
+      "mtime": "2018-06-02T11:44:38.544Z",
+      "ctime": "2018-06-02T11:44:38.544Z",
+      "birthtime": "2018-06-02T11:44:38.544Z"
+    },
+    "/home/cht/Documents/cht/blog/src/pages/growth-hacking/index.md absPath of file": {
+      "id": "/home/cht/Documents/cht/blog/src/pages/growth-hacking/index.md absPath of file",
+      "children": [
+        "/home/cht/Documents/cht/blog/src/pages/growth-hacking/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "74634d493ff6677f9b918d91d5de679c",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src/pages/growth-hacking/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/cht/Documents/cht/blog/src/pages/growth-hacking/index.md",
+      "relativePath": "growth-hacking/index.md",
+      "extension": "md",
+      "size": 1488,
+      "prettySize": "1.49 kB",
+      "modifiedTime": "2018-06-02T11:44:38.544Z",
+      "accessTime": "2018-06-02T11:44:38.544Z",
+      "changeTime": "2018-06-02T11:44:38.548Z",
+      "birthTime": "2018-06-02T11:44:38.548Z",
+      "root": "/",
+      "dir": "/home/cht/Documents/cht/blog/src/pages/growth-hacking",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "growth-hacking",
+      "dev": 66306,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 26875205,
+      "blocks": 8,
+      "atimeMs": 1527939878544.3757,
+      "mtimeMs": 1527939878544.3757,
+      "ctimeMs": 1527939878548.3757,
+      "birthtimeMs": 1527939878548.3757,
+      "atime": "2018-06-02T11:44:38.544Z",
+      "mtime": "2018-06-02T11:44:38.544Z",
+      "ctime": "2018-06-02T11:44:38.548Z",
+      "birthtime": "2018-06-02T11:44:38.548Z"
+    },
+    "/home/cht/Documents/cht/blog/src/pages/growth-hacking/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/cht/Documents/cht/blog/src/pages/growth-hacking/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/cht/Documents/cht/blog/src/pages/growth-hacking/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: Growth Hacking \ndate: \"2018-06-02T16:09:03.284Z\"\n---\n\n##Sean Ellis talks about the 3 stages of Growth Hacking Success\nhttps://www.youtube.com/watch?feature=player_embedded&v=i0nxESR9sFs\n\n>Growth Pyramid\n\n- Product/Market Fit \n\n- Stacking the Odds\n\n- Scale Growth\n\n>Testing Drives Growth\n\n- Test to discover\n- Test to optimize\n\n>Unbridled Ideation\n\n- Build large backlog of ideas\n- Invite participation from whole company\n\n\n>ICE\n\nImpact  Confidence Experiment\n\n\n##LinkedIn Head of Growth Aatif Awan - Growth Hacking is Dead. Long Live Growth!\n\nhttp://www.youtube.com/watch?feature=player_embedded&v=bqNP0ZGLddc\n###Startup Success = Product + Growth + Revenue\n\n1.Product \n  Make something people want\n\n2.Growth\n  Get lots of people to use the product\n\n3.Revenue\n  Get someone to pay for product or for access to users\n\n###Good product comes first, growth second\n- Investing in growth before you have a good product is a waste of resources\n- It might seem to work initially, but reality catches up eventually\n\n###Good product leads to Good Retention\n- Retention curve for good products flattens out after a few months.\n\n###You can improve retention by ...\n- Getting feedback from exiting users to understand what'sworking and what's not.\n\n- Finding a segment of users of whom your product has good retention.\n\n- Geting users to experince core value (A-ha moment) sooner.\n\nhttps://www.youtube.com/watch?v=atMh6zz1CIA\n\nVincent Dignan | Growth Hacking, Sales and Personal Branding\n\n\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "a96ede26a129715002d321b00d10e628",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Growth Hacking",
+        "date": "2018-06-02T16:09:03.284Z",
+        "_PARENT": "/home/cht/Documents/cht/blog/src/pages/growth-hacking/index.md absPath of file",
+        "parent": "/home/cht/Documents/cht/blog/src/pages/growth-hacking/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/home/cht/Documents/cht/blog/src/pages/growth-hacking/index.md",
+      "fields": {
+        "slug": "/growth-hacking/"
+      }
+    },
+    "/home/cht/Documents/cht/blog/src/pages/lean-startups absPath of file": {
+      "id": "/home/cht/Documents/cht/blog/src/pages/lean-startups absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "841ec029aef38e8363867f0c1ce54aee",
+        "type": "Directory",
+        "description": "Directory \"src/pages/lean-startups\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/cht/Documents/cht/blog/src/pages/lean-startups",
+      "relativePath": "lean-startups",
+      "extension": "",
+      "size": 4096,
+      "prettySize": "4.1 kB",
+      "modifiedTime": "2018-06-11T05:36:21.064Z",
+      "accessTime": "2018-06-11T05:36:42.784Z",
+      "changeTime": "2018-06-11T05:36:21.064Z",
+      "birthTime": "2018-06-11T05:36:21.064Z",
+      "root": "/",
+      "dir": "/home/cht/Documents/cht/blog/src/pages",
+      "base": "lean-startups",
+      "ext": "",
+      "name": "lean-startups",
+      "relativeDirectory": "",
+      "dev": 66306,
+      "mode": 16877,
+      "nlink": 2,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 28712763,
+      "blocks": 8,
+      "atimeMs": 1528695402784.2263,
+      "mtimeMs": 1528695381064.0667,
+      "ctimeMs": 1528695381064.0667,
+      "birthtimeMs": 1528695381064.0667,
+      "atime": "2018-06-11T05:36:42.784Z",
+      "mtime": "2018-06-11T05:36:21.064Z",
+      "ctime": "2018-06-11T05:36:21.064Z",
+      "birthtime": "2018-06-11T05:36:21.064Z"
+    },
+    "/home/cht/Documents/cht/blog/src/pages/lean-startups/flow.jpg absPath of file": {
+      "id": "/home/cht/Documents/cht/blog/src/pages/lean-startups/flow.jpg absPath of file",
+      "children": [
+        "/home/cht/Documents/cht/blog/src/pages/lean-startups/flow.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "770eefe32bc9434d976313e245ed6e3d",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "description": "File \"src/pages/lean-startups/flow.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/cht/Documents/cht/blog/src/pages/lean-startups/flow.jpg",
+      "relativePath": "lean-startups/flow.jpg",
+      "extension": "jpg",
+      "size": 50585,
+      "prettySize": "50.6 kB",
+      "modifiedTime": "2018-06-11T05:27:20.556Z",
+      "accessTime": "2018-06-11T05:27:24.124Z",
+      "changeTime": "2018-06-11T05:36:21.064Z",
+      "birthTime": "2018-06-11T05:36:21.064Z",
+      "root": "/",
+      "dir": "/home/cht/Documents/cht/blog/src/pages/lean-startups",
+      "base": "flow.jpg",
+      "ext": ".jpg",
+      "name": "flow",
+      "relativeDirectory": "lean-startups",
+      "dev": 66306,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 28712765,
+      "blocks": 104,
+      "atimeMs": 1528694844124.1152,
+      "mtimeMs": 1528694840556.0889,
+      "ctimeMs": 1528695381064.0667,
+      "birthtimeMs": 1528695381064.0667,
+      "atime": "2018-06-11T05:27:24.124Z",
+      "mtime": "2018-06-11T05:27:20.556Z",
+      "ctime": "2018-06-11T05:36:21.064Z",
+      "birthtime": "2018-06-11T05:36:21.064Z"
+    },
+    "/home/cht/Documents/cht/blog/src/pages/lean-startups/index.md absPath of file": {
+      "id": "/home/cht/Documents/cht/blog/src/pages/lean-startups/index.md absPath of file",
+      "children": [
+        "/home/cht/Documents/cht/blog/src/pages/lean-startups/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a4f8307cc74b04f0a259b9ba870103e7",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src/pages/lean-startups/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/cht/Documents/cht/blog/src/pages/lean-startups/index.md",
+      "relativePath": "lean-startups/index.md",
+      "extension": "md",
+      "size": 2207,
+      "prettySize": "2.21 kB",
+      "modifiedTime": "2018-06-11T09:22:30.389Z",
+      "accessTime": "2018-06-11T09:22:30.389Z",
+      "changeTime": "2018-06-11T09:22:30.393Z",
+      "birthTime": "2018-06-11T09:22:30.393Z",
+      "root": "/",
+      "dir": "/home/cht/Documents/cht/blog/src/pages/lean-startups",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "lean-startups",
+      "dev": 66306,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 28713180,
+      "blocks": 8,
+      "atimeMs": 1528708950389.2043,
+      "mtimeMs": 1528708950389.2043,
+      "ctimeMs": 1528708950393.2043,
+      "birthtimeMs": 1528708950393.2043,
+      "atime": "2018-06-11T09:22:30.389Z",
+      "mtime": "2018-06-11T09:22:30.389Z",
+      "ctime": "2018-06-11T09:22:30.393Z",
+      "birthtime": "2018-06-11T09:22:30.393Z"
+    },
+    "/home/cht/Documents/cht/blog/src/pages/lean-startups/flow.jpg absPath of file >> ImageSharp": {
+      "id": "/home/cht/Documents/cht/blog/src/pages/lean-startups/flow.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/cht/Documents/cht/blog/src/pages/lean-startups/flow.jpg absPath of file",
+      "internal": {
+        "contentDigest": "770eefe32bc9434d976313e245ed6e3d",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "SitePage /lean-startups/": {
       "layout": "index",
-      "jsonName": "offline-plugin-app-shell-fallback.json",
-      "internalComponentName": "ComponentOfflinePluginAppShellFallback",
-      "path": "/offline-plugin-app-shell-fallback/",
-      "component": "/home/cht/Documents/cht/blog/node_modules/gatsby-plugin-offline/app-shell.js",
-      "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin gatsby-plugin-offline",
-      "pluginCreatorId": "Plugin gatsby-plugin-offline",
-      "componentPath": "/home/cht/Documents/cht/blog/node_modules/gatsby-plugin-offline/app-shell.js",
-      "id": "SitePage /offline-plugin-app-shell-fallback/",
+      "jsonName": "lean-startups.json",
+      "internalComponentName": "ComponentLeanStartups",
+      "path": "/lean-startups/",
+      "component": "/home/cht/Documents/cht/blog/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "/lean-startups/",
+        "previous": {
+          "fields": {
+            "slug": "/growth-hacking/"
+          },
+          "frontmatter": {
+            "title": "Growth Hacking"
+          }
+        },
+        "next": null
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/cht/Documents/cht/blog/src/templates/blog-post.js",
+      "id": "SitePage /lean-startups/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6751bccac220c9ed2ee357977ce7ba90",
-        "description": "Plugin gatsby-plugin-offline",
+        "contentDigest": "79c068b8e798ff92932d6003a6700168",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /growth-hacking/": {
+      "layout": "index",
+      "jsonName": "growth-hacking.json",
+      "internalComponentName": "ComponentGrowthHacking",
+      "path": "/growth-hacking/",
+      "component": "/home/cht/Documents/cht/blog/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "/growth-hacking/",
+        "previous": {
+          "fields": {
+            "slug": "/hello-world/"
+          },
+          "frontmatter": {
+            "title": "Hello World"
+          }
+        },
+        "next": {
+          "fields": {
+            "slug": "/lean-startups/"
+          },
+          "frontmatter": {
+            "title": "LEAN Startups"
+          }
+        }
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/home/cht/Documents/cht/blog/src/templates/blog-post.js",
+      "id": "SitePage /growth-hacking/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f8a3aeba4f41a87ba1985c0e21272756",
+        "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
     },
@@ -1897,7 +2223,14 @@
       "context": {
         "slug": "/hello-world/",
         "previous": null,
-        "next": null
+        "next": {
+          "fields": {
+            "slug": "/growth-hacking/"
+          },
+          "frontmatter": {
+            "title": "Growth Hacking"
+          }
+        }
       },
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
@@ -1907,7 +2240,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e6b40187952a686392a73c31311326bb",
+        "contentDigest": "a512e1cbce0fa2aec28bc86384e371c6",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1928,7 +2261,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "aa481b68b97c0308d3bc93d61b4e0b6b",
+        "contentDigest": "8392648b92f9a2921fa2f4706bf3aecc",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1949,7 +2282,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "81c912d643a253d7568f42f6f326de2f",
+        "contentDigest": "3785af2808250c1ffa37adadd46137b5",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1970,9 +2303,319 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e1d9a27b3361a26766a8c1965b883244",
+        "contentDigest": "d7c61d8e271e71cd24d0a67a269af200",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
+      }
+    },
+    "/home/cht/Documents/cht/blog/src/pages/lean-startups/market-centric.jpg absPath of file": {
+      "id": "/home/cht/Documents/cht/blog/src/pages/lean-startups/market-centric.jpg absPath of file",
+      "children": [
+        "/home/cht/Documents/cht/blog/src/pages/lean-startups/market-centric.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "6b1c3de35c06cf0c6d08a2c2705045c0",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "description": "File \"src/pages/lean-startups/market-centric.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/cht/Documents/cht/blog/src/pages/lean-startups/market-centric.jpg",
+      "relativePath": "lean-startups/market-centric.jpg",
+      "extension": "jpg",
+      "size": 40672,
+      "prettySize": "40.7 kB",
+      "modifiedTime": "2018-06-11T08:55:00.427Z",
+      "accessTime": "2018-06-11T08:55:00.435Z",
+      "changeTime": "2018-06-11T08:55:17.455Z",
+      "birthTime": "2018-06-11T08:55:17.455Z",
+      "root": "/",
+      "dir": "/home/cht/Documents/cht/blog/src/pages/lean-startups",
+      "base": "market-centric.jpg",
+      "ext": ".jpg",
+      "name": "market-centric",
+      "relativeDirectory": "lean-startups",
+      "dev": 66306,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 28712766,
+      "blocks": 80,
+      "atimeMs": 1528707300434.9705,
+      "mtimeMs": 1528707300426.9702,
+      "ctimeMs": 1528707317455.0925,
+      "birthtimeMs": 1528707317455.0925,
+      "atime": "2018-06-11T08:55:00.435Z",
+      "mtime": "2018-06-11T08:55:00.427Z",
+      "ctime": "2018-06-11T08:55:17.455Z",
+      "birthtime": "2018-06-11T08:55:17.455Z"
+    },
+    "/home/cht/Documents/cht/blog/src/pages/lean-startups/market-centric.jpg absPath of file >> ImageSharp": {
+      "id": "/home/cht/Documents/cht/blog/src/pages/lean-startups/market-centric.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/cht/Documents/cht/blog/src/pages/lean-startups/market-centric.jpg absPath of file",
+      "internal": {
+        "contentDigest": "6b1c3de35c06cf0c6d08a2c2705045c0",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/cht/Documents/cht/blog/src/pages/lean-startups/problem-centric.jpg absPath of file": {
+      "id": "/home/cht/Documents/cht/blog/src/pages/lean-startups/problem-centric.jpg absPath of file",
+      "children": [
+        "/home/cht/Documents/cht/blog/src/pages/lean-startups/problem-centric.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "581c9429d30d95c9086503529d436ae1",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "description": "File \"src/pages/lean-startups/problem-centric.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/cht/Documents/cht/blog/src/pages/lean-startups/problem-centric.jpg",
+      "relativePath": "lean-startups/problem-centric.jpg",
+      "extension": "jpg",
+      "size": 40824,
+      "prettySize": "40.8 kB",
+      "modifiedTime": "2018-06-11T08:55:23.915Z",
+      "accessTime": "2018-06-11T08:55:23.923Z",
+      "changeTime": "2018-06-11T08:55:38.739Z",
+      "birthTime": "2018-06-11T08:55:38.739Z",
+      "root": "/",
+      "dir": "/home/cht/Documents/cht/blog/src/pages/lean-startups",
+      "base": "problem-centric.jpg",
+      "ext": ".jpg",
+      "name": "problem-centric",
+      "relativeDirectory": "lean-startups",
+      "dev": 66306,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 28713178,
+      "blocks": 80,
+      "atimeMs": 1528707323923.1392,
+      "mtimeMs": 1528707323915.139,
+      "ctimeMs": 1528707338739.2454,
+      "birthtimeMs": 1528707338739.2454,
+      "atime": "2018-06-11T08:55:23.923Z",
+      "mtime": "2018-06-11T08:55:23.915Z",
+      "ctime": "2018-06-11T08:55:38.739Z",
+      "birthtime": "2018-06-11T08:55:38.739Z"
+    },
+    "/home/cht/Documents/cht/blog/src/pages/lean-startups/problem-centric.jpg absPath of file >> ImageSharp": {
+      "id": "/home/cht/Documents/cht/blog/src/pages/lean-startups/problem-centric.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/cht/Documents/cht/blog/src/pages/lean-startups/problem-centric.jpg absPath of file",
+      "internal": {
+        "contentDigest": "581c9429d30d95c9086503529d436ae1",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/cht/Documents/cht/blog/src/pages/lean-startups/product-centric.jpg absPath of file": {
+      "id": "/home/cht/Documents/cht/blog/src/pages/lean-startups/product-centric.jpg absPath of file",
+      "children": [
+        "/home/cht/Documents/cht/blog/src/pages/lean-startups/product-centric.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "7938155e7a0b3f5782df5352f3656ff2",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "description": "File \"src/pages/lean-startups/product-centric.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/cht/Documents/cht/blog/src/pages/lean-startups/product-centric.jpg",
+      "relativePath": "lean-startups/product-centric.jpg",
+      "extension": "jpg",
+      "size": 47747,
+      "prettySize": "47.7 kB",
+      "modifiedTime": "2018-06-11T09:01:05.516Z",
+      "accessTime": "2018-06-11T09:01:05.524Z",
+      "changeTime": "2018-06-11T09:01:29.712Z",
+      "birthTime": "2018-06-11T09:01:29.712Z",
+      "root": "/",
+      "dir": "/home/cht/Documents/cht/blog/src/pages/lean-startups",
+      "base": "product-centric.jpg",
+      "ext": ".jpg",
+      "name": "product-centric",
+      "relativeDirectory": "lean-startups",
+      "dev": 66306,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 28712764,
+      "blocks": 96,
+      "atimeMs": 1528707665524.301,
+      "mtimeMs": 1528707665516.301,
+      "ctimeMs": 1528707689712.468,
+      "birthtimeMs": 1528707689712.468,
+      "atime": "2018-06-11T09:01:05.524Z",
+      "mtime": "2018-06-11T09:01:05.516Z",
+      "ctime": "2018-06-11T09:01:29.712Z",
+      "birthtime": "2018-06-11T09:01:29.712Z"
+    },
+    "/home/cht/Documents/cht/blog/src/pages/lean-startups/product-centric.jpg absPath of file >> ImageSharp": {
+      "id": "/home/cht/Documents/cht/blog/src/pages/lean-startups/product-centric.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/cht/Documents/cht/blog/src/pages/lean-startups/product-centric.jpg absPath of file",
+      "internal": {
+        "contentDigest": "7938155e7a0b3f5782df5352f3656ff2",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/cht/Documents/cht/blog/src/pages/lean-startups/technology-centric.jpg absPath of file": {
+      "id": "/home/cht/Documents/cht/blog/src/pages/lean-startups/technology-centric.jpg absPath of file",
+      "children": [
+        "/home/cht/Documents/cht/blog/src/pages/lean-startups/technology-centric.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "43a55382b9df34cff66f4cb05fbe1612",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "description": "File \"src/pages/lean-startups/technology-centric.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/cht/Documents/cht/blog/src/pages/lean-startups/technology-centric.jpg",
+      "relativePath": "lean-startups/technology-centric.jpg",
+      "extension": "jpg",
+      "size": 39936,
+      "prettySize": "39.9 kB",
+      "modifiedTime": "2018-06-11T09:09:57.740Z",
+      "accessTime": "2018-06-11T09:09:57.752Z",
+      "changeTime": "2018-06-11T09:10:16.512Z",
+      "birthTime": "2018-06-11T09:10:16.512Z",
+      "root": "/",
+      "dir": "/home/cht/Documents/cht/blog/src/pages/lean-startups",
+      "base": "technology-centric.jpg",
+      "ext": ".jpg",
+      "name": "technology-centric",
+      "relativeDirectory": "lean-startups",
+      "dev": 66306,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 28713179,
+      "blocks": 80,
+      "atimeMs": 1528708197751.984,
+      "mtimeMs": 1528708197739.9836,
+      "ctimeMs": 1528708216512.114,
+      "birthtimeMs": 1528708216512.114,
+      "atime": "2018-06-11T09:09:57.752Z",
+      "mtime": "2018-06-11T09:09:57.740Z",
+      "ctime": "2018-06-11T09:10:16.512Z",
+      "birthtime": "2018-06-11T09:10:16.512Z"
+    },
+    "/home/cht/Documents/cht/blog/src/pages/lean-startups/technology-centric.jpg absPath of file >> ImageSharp": {
+      "id": "/home/cht/Documents/cht/blog/src/pages/lean-startups/technology-centric.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/cht/Documents/cht/blog/src/pages/lean-startups/technology-centric.jpg absPath of file",
+      "internal": {
+        "contentDigest": "43a55382b9df34cff66f4cb05fbe1612",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/cht/Documents/cht/blog/src/pages/lean-startups/channel-centric.jpg absPath of file": {
+      "id": "/home/cht/Documents/cht/blog/src/pages/lean-startups/channel-centric.jpg absPath of file",
+      "children": [
+        "/home/cht/Documents/cht/blog/src/pages/lean-startups/channel-centric.jpg absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "e22aff6112aa09e054f9fa5fe3d23b0b",
+        "mediaType": "image/jpeg",
+        "type": "File",
+        "description": "File \"src/pages/lean-startups/channel-centric.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/home/cht/Documents/cht/blog/src/pages/lean-startups/channel-centric.jpg",
+      "relativePath": "lean-startups/channel-centric.jpg",
+      "extension": "jpg",
+      "size": 46473,
+      "prettySize": "46.5 kB",
+      "modifiedTime": "2018-06-11T09:18:59.684Z",
+      "accessTime": "2018-06-11T09:18:59.688Z",
+      "changeTime": "2018-06-11T09:19:42.864Z",
+      "birthTime": "2018-06-11T09:19:42.864Z",
+      "root": "/",
+      "dir": "/home/cht/Documents/cht/blog/src/pages/lean-startups",
+      "base": "channel-centric.jpg",
+      "ext": ".jpg",
+      "name": "channel-centric",
+      "relativeDirectory": "lean-startups",
+      "dev": 66306,
+      "mode": 33204,
+      "nlink": 1,
+      "uid": 1000,
+      "gid": 1000,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 28713181,
+      "blocks": 96,
+      "atimeMs": 1528708739687.7473,
+      "mtimeMs": 1528708739683.7473,
+      "ctimeMs": 1528708782864.0457,
+      "birthtimeMs": 1528708782864.0457,
+      "atime": "2018-06-11T09:18:59.688Z",
+      "mtime": "2018-06-11T09:18:59.684Z",
+      "ctime": "2018-06-11T09:19:42.864Z",
+      "birthtime": "2018-06-11T09:19:42.864Z"
+    },
+    "/home/cht/Documents/cht/blog/src/pages/lean-startups/channel-centric.jpg absPath of file >> ImageSharp": {
+      "id": "/home/cht/Documents/cht/blog/src/pages/lean-startups/channel-centric.jpg absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/home/cht/Documents/cht/blog/src/pages/lean-startups/channel-centric.jpg absPath of file",
+      "internal": {
+        "contentDigest": "e22aff6112aa09e054f9fa5fe3d23b0b",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/home/cht/Documents/cht/blog/src/pages/lean-startups/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/home/cht/Documents/cht/blog/src/pages/lean-startups/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/home/cht/Documents/cht/blog/src/pages/lean-startups/index.md absPath of file",
+      "internal": {
+        "content": "---\ntitle: LEAN Startups\ndate: \"2018-06-11T14:58:03.284Z\"\n---\n\n>What is a LEAN startup?\n\nThe objective of a lean startup is to elimate waste in the discovery of value and whome it's being created.\n\n\n### THE VALUE-CREATION ECONOMY\n\n- Having a product experience that exceeds their needs.\n- Having a relationship with the company in which the company treats them respectfully.\n- Having a voice in the product.\n\n\n> Value-adding activities are those that directly contribute to the production or delivery of value—for example, assembling part of a car. Non-value-adding activities are those that don’t contribute to the value being produced—for example, forklifting parts from one side of a warehouse to another.\n\n\n### \n\n![Flow](flow.jpg)\n\n>Follow your passion is easily the worst advice you could ever give or get.\n\n—Mark Cuban, businessman, investor, and billionaire (ergo: visionary)2\n\n\n### Market-Centric\n\n![Market-Centric](market-centric.jpg)\n\n\n### Problem-Centric\n\n![Problem-Centric](problem-centric.jpg)\n\nBut beware: This can be a trap, on two levels. First, just because you have experienced the problem doesn’t mean that there is an addressable market segment for it. Second, you may be biased toward a solution that the market majority doesn’t want.\n\nA notable difference between the market-centric and problem-centric business models is that the problem-centric model ultimately pursues anyone who has the problem, whereas the market-centric model seeks to solve many problems experienced by one market.\n\n### Product-Centric\n\n![Product-Centric](problem-centric.jpg)\n\n\n### Technology-Centric \n\n![Technology-Centric](technology-centric.jpg)\n\n\n### Channel-Centric \n\n![Channel-Centric](channel-centric.jpg)\n\n\n>According to author Steven Spear, the only way for an enterprise to truly thrive is to become a high-velocity organization. A high-velocity organization continuously produces higher-quality products while also continuously improving the processes of producing product. This, Spear argues, is the forgotten lesson of the Toyota Production System: that Toyota figured out “how to do the work in such a way that individuals and groups kept learning how to do that work better.”3\n\n\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "ed7da34f02915e9aa14d39a1cb9ff5db",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "LEAN Startups",
+        "date": "2018-06-11T14:58:03.284Z",
+        "_PARENT": "/home/cht/Documents/cht/blog/src/pages/lean-startups/index.md absPath of file",
+        "parent": "/home/cht/Documents/cht/blog/src/pages/lean-startups/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/home/cht/Documents/cht/blog/src/pages/lean-startups/index.md",
+      "fields": {
+        "slug": "/lean-startups/"
       }
     }
   },
@@ -1984,10 +2627,21 @@
     "nodes": {
       "Site": [
         "/hello-world/",
-        "/"
+        "/",
+        "/growth-hacking/",
+        "/lean-startups/"
       ],
       "/home/cht/Documents/cht/blog/src/pages/hello-world/index.md absPath of file >>> MarkdownRemark": [
         "/hello-world/"
+      ],
+      "/home/cht/Documents/cht/blog/src/pages/growth-hacking/index.md absPath of file >>> MarkdownRemark": [
+        "/growth-hacking/"
+      ],
+      "/home/cht/Documents/cht/blog/src/pages/lean-startups/index.md absPath of file >>> MarkdownRemark": [
+        "/lean-startups/"
+      ],
+      "/home/cht/Documents/cht/blog/src/pages/404.js absPath of file": [
+        "/"
       ]
     },
     "connections": {
